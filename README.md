@@ -1,1 +1,1 @@
-# PasswordGenerator1.0
+# SimplePasswordGenerator
