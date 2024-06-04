@@ -1,4 +1,5 @@
 # SimplePasswordGenerator
+It is a simple Password Generator (You set the length and type)
 
 - In this Project i learned how to use 'for' loops, use the range attribute and Code Blocks
 
